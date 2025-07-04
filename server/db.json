@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Arduino Uno R3",
+      "price": 450.50,
+      "category": "microcontrollers",
+      "quantity": 25,
+      "image": "https://images.pexels.com/photos/442152/pexels-photo-442152.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1",
+      "description": "Arduino Uno R3 microcontroller board based on the ATmega328P. Perfect for beginners and advanced projects.",
+      "createdAt": "2025-01-03T10:00:00.000Z",
+      "updatedAt": "2025-01-03T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "name": "Resistor Kit 1/4W",
+      "price": 120.75,
+      "category": "resistors",
+      "quantity": 50,
+      "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1",
+      "description": "Complete resistor kit with various values from 1Ω to 1MΩ. High quality 1/4W metal film resistors.",
+      "createdAt": "2025-01-03T10:00:00.000Z",
+      "updatedAt": "2025-01-03T10:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "name": "LED Diode Pack",
+      "price": 85.25,
+      "category": "diodes",
+      "quantity": 0,
+      "image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1",
+      "description": "Mixed pack of 5mm LEDs in various colors. Red, green, blue, yellow, and white included.",
+      "createdAt": "2025-01-03T10:00:00.000Z",
+      "updatedAt": "2025-01-03T10:00:00.000Z"
+    },
+    {
+      "id": "4",
+      "name": "Ultrasonic Sensor HC-SR04",
+      "price": 65.99,
+      "category": "sensors",
+      "quantity": 15,
+      "image": "https://images.pexels.com/photos/343457/pexels-photo-343457.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1",
+      "description": "Ultrasonic ranging module HC-SR04 provides 2cm-400cm ranging function with high accuracy.",
+      "createdAt": "2025-01-03T10:00:00.000Z",
+      "updatedAt": "2025-01-03T10:00:00.000Z"
+    },
+    {
+      "id": "5",
+      "name": "Ceramic Capacitor Set",
+      "price": 95.10,
+      "category": "capacitors",
+      "quantity": 30,
+      "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1",
+      "description": "Ceramic capacitor assortment with various capacitance values. High-quality multilayer ceramic capacitors.",
+      "createdAt": "2025-01-03T10:00:00.000Z",
+      "updatedAt": "2025-01-03T10:00:00.000Z"
+    },
+    {
+      "id": "6",
+      "name": "Jumper Wire Kit",
+      "price": 45.55,
+      "category": "wires",
+      "quantity": 100,
+      "image": "https://images.pexels.com/photos/442152/pexels-photo-442152.jpeg?auto=compress&cs=tinysrgb&w=500&h=300&dpr=1",
+      "description": "Complete jumper wire kit with male-to-male, male-to-female, and female-to-female connections.",
+      "createdAt": "2025-01-03T10:00:00.000Z",
+      "updatedAt": "2025-01-03T10:00:00.000Z"
+    }
+  ],
+  "store_settings": [
+    {
+      "id": "1",
+      "contact": {
+        "email": "info@okindustries.cz",
+        "phone": "+420 123 456 789",
+        "address": "Prague, Czech Republic"
+      },
+      "categories": [
+        "diodes",
+        "resistors",
+        "inductors",
+        "capacitors",
+        "modules",
+        "sensors",
+        "microcontrollers",
+        "wires",
+        "installation",
+        "tools",
+        "spare parts"
+      ],
+      "banners": {
+        "hero": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "service": "https://images.pexels.com/photos/442152/pexels-photo-442152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "printing3d": "https://images.pexels.com/photos/3862132/pexels-photo-3862132.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&dpr=1",
+        "pcbManufacturing": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=800&h=400&dpr=1"
+      },
+      "content": {
+        "heroTitle": "OK Industries",
+        "heroSubtitle": "Your trusted partner for electronic components",
+        "printing3dTitle": "Professional 3D Printing Services",
+        "printing3dDescription": "High-quality 3D printing services for prototypes, custom parts, and small-scale production.",
+        "pcbTitle": "Custom PCB Manufacturing",
+        "pcbDescription": "Professional PCB design and manufacturing services from prototype to production."
+      }
+    }
+  ],
+  "orders": []
+}
